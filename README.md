@@ -1,2 +1,2 @@
-# FCC-coffeeshop
-FCC project of coffee shop menu
+# coffeeshop
+project of coffee shop menu
